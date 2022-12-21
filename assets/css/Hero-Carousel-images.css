@@ -1,0 +1,12 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+body {
+  /*background: linear-gradient(to right, #777F87 30%, #4A545F 30% 80%, #777F87 80%);*/
+}
+
+body {
+  background: linear-gradient(to right, #777F87 30%, #4A545F 30% 80%, #777F87 80%);
+}
+
