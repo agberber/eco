@@ -10,3 +10,12 @@ body {
   background: linear-gradient(to right, #777F87 30%, #4A545F 30% 80%, #777F87 80%);
 }
 
+@keyframes text {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-160%, 0);
+  }
+}
+
